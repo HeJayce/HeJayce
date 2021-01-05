@@ -9,7 +9,7 @@
 
 ![](https://img.shields.io/badge/IDE-webstorm-blue?style=flat-square&logo=WebStorm)
 ![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=PyCharm)
-![](https://img.shields.io/badge/IDE-visual-studio-code-blue?style=flat-square&logo=visual-studio-code)
+![](https://img.shields.io/badge/IDE-visual-studio-code-blue?style=flat-square&logo=Visual-Studio-Code)
 
 
 
