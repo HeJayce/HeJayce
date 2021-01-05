@@ -28,11 +28,11 @@
 
 ## 🏀课余生活
 ### App
-![](https://img.shields.io/badge/-AppleMusic-gray?style=flat-square&logo=Apple-Music)
-![](https://img.shields.io/badge/-Spotify-gray?style=flat-square&logo=Spotify)
-![](https://img.shields.io/badge/-bilibili-gray?style=flat-square&logo=Bilibili)
-![](https://img.shields.io/badge/-Youtube-gray?style=flat-square&logo=YouTube)
-![](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=GitHub)
+![](https://img.shields.io/badge/-AppleMusic-pink?style=flat-square&logo=Apple-Music)
+![](https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify)
+![](https://img.shields.io/badge/-bilibili-blue?style=flat-square&logo=Bilibili)
+![](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=YouTube)
+![](https://img.shields.io/badge/-Github-black?style=flat-square&logo=GitHub)
 
 <!-- steam-box start -->
  ### <a href="https://gist.github.com/881763b570de2cda37d3b7660c1e9f7d" target="_blank">🎮 我爱玩的Steam游戏</a>
