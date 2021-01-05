@@ -1,4 +1,4 @@
-### Hi there, I'm Jayce 
+# 😉	Hi there, I'm Jayce 
 ![](https://img.shields.io/badge/dynamic/json?color=da282a&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3606922432&logo=Sina-Weibo) 
 [![QQ](https://img.shields.io/badge/-QQ-blue?style=flat-square&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
 
@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Bootstrap-gray?style=flat-square&logo=Bootstrap)
 ![](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
 ![](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
