@@ -1,6 +1,6 @@
 ### Hi there, I'm Jayce 
 ![](https://img.shields.io/badge/dynamic/json?color=da282a&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3606922432&logo=Sina-Weibo) 
-[![](https://img.shields.io/badge/-QQ-gray?style=flat-square&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
+[![QQ](https://img.shields.io/badge/-QQ-gray?style=flat-square&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
 
 ## ⚡ 使用工具及语言
 
