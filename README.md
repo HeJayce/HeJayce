@@ -1,5 +1,6 @@
 ### Hi there, I'm Jayce 
 ![](https://img.shields.io/badge/dynamic/json?color=da282a&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3606922432&logo=Sina-Weibo) 
+[![](https://img.shields.io/badge/-QQ-gray?style=flat-square&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
 
 ## ⚡ 使用工具及语言
 
@@ -12,13 +13,15 @@
 ![](https://img.shields.io/badge/IDE-visual-studio-code-blue?style=flat-square&logo=Visual-Studio-Code)
 
 
-
+![](https://img.shields.io/badge/-HTML-gray?style=flat-square&logo=HTML5)
+![](https://img.shields.io/badge/-CSS-gray?style=flat-square&logo=CSS3)
+![](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
-![Python](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
+![](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
+![](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
+![](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
 
 
 
@@ -27,7 +30,7 @@
 
 
 ## 🏀课余生活
-### App
+### 📱App
 ![](https://img.shields.io/badge/-AppleMusic-pink?style=flat-square&logo=Apple-Music)
 ![](https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify)
 ![](https://img.shields.io/badge/-bilibili-blue?style=flat-square&logo=Bilibili)
@@ -45,6 +48,6 @@
 ```
  <!-- steam-box end -->
 
- ### 🎧我喜欢的音乐
+ ### 🎧 我喜欢的音乐
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3y0qdbbyz7q7ivk6wlyt6p4mj&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3y0qdbbyz7q7ivk6wlyt6p4mj&redirect=true)
 
