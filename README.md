@@ -40,7 +40,8 @@
 🎮 ShareX                           🕘 29 hrs 46 mins
 ```
  <!-- steam-box end -->
- 
+ </td>
+<td valign="top" width="50%">
  ### 🎧我喜欢的音乐
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3y0qdbbyz7q7ivk6wlyt6p4mj&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3y0qdbbyz7q7ivk6wlyt6p4mj&redirect=true)
  
