@@ -27,9 +27,13 @@
 
 
 ## 🏀课余生活
-<table>
-<tr>
-<td valign="top" width="50%">
+### App
+![](https://img.shields.io/badge/-AppleMusic-gray?style=flat-square&logo=Apple-Music)
+![](https://img.shields.io/badge/-Spotify-gray?style=flat-square&logo=Spotify)
+![](https://img.shields.io/badge/-bilibili-gray?style=flat-square&logo=Bilibili)
+![](https://img.shields.io/badge/-Youtube-gray?style=flat-square&logo=YouTube)
+![](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=GitHub)
+
 <!-- steam-box start -->
  ### <a href="https://gist.github.com/881763b570de2cda37d3b7660c1e9f7d" target="_blank">🎮 我爱玩的Steam游戏</a>
  ``` text
@@ -40,12 +44,7 @@
 🎮 ShareX                           🕘 29 hrs 46 mins
 ```
  <!-- steam-box end -->
- </td>
-<td valign="top" width="50%">
+
  ### 🎧我喜欢的音乐
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3y0qdbbyz7q7ivk6wlyt6p4mj&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3y0qdbbyz7q7ivk6wlyt6p4mj&redirect=true)
- 
- </td>
-</tr>
-</table>
 
