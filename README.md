@@ -1,21 +1,23 @@
 ### Hi there, I'm Jayce 
 ![](https://img.shields.io/badge/dynamic/json?color=da282a&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3606922432&logo=Sina-Weibo) 
-[![QQ](https://img.shields.io/badge/-QQ-gray?style=flat-square&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
+[![QQ](https://img.shields.io/badge/-QQ-blue?style=flat-square&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
 
 ## ⚡ 使用工具及语言
 
 <!--![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)-->
+![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)
-![](https://img.shields.io/badge/Windows-10-E95420?style=flat-square&logo=Windows)
 
-![](https://img.shields.io/badge/IDE-webstorm-blue?style=flat-square&logo=WebStorm)
-![](https://img.shields.io/badge/IDE-PyCharm-green?style=flat-square&logo=PyCharm)
-![](https://img.shields.io/badge/IDE-visual-studio-code-blue?style=flat-square&logo=Visual-Studio-Code)
+
+![](https://img.shields.io/badge/Web-webstorm-blue?style=flat-square&logo=WebStorm)
+![](https://img.shields.io/badge/Python-PyCharm-green?style=flat-square&logo=PyCharm)
+![](https://img.shields.io/badge/Other-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)
 
 
 ![](https://img.shields.io/badge/-HTML-gray?style=flat-square&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-gray?style=flat-square&logo=CSS3)
 ![](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-Bootstrap-gray?style=flat-square&logo=Bootstrap)
 ![](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
