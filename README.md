@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
 
 
-
 ## 💻代码占比
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeJayce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,6 +36,7 @@
 ![](https://img.shields.io/badge/-bilibili-blue?style=flat-square&logo=Bilibili)
 ![](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=YouTube)
 ![](https://img.shields.io/badge/-Github-black?style=flat-square&logo=GitHub)
+![](https://img.shields.io/badge/-instagram-DB7093?style=flat-square&logo=instagram)
 
 <!-- steam-box start -->
  ### <a href="https://gist.github.com/881763b570de2cda37d3b7660c1e9f7d" target="_blank">🎮 我爱玩的Steam游戏</a>
