@@ -26,7 +26,8 @@
 
 
 ## 💻代码占比
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeJayce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeJayce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![info](https://github-readme-stats.vercel.app/api?username=HeJayce&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
 ## 🏀课余生活
