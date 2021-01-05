@@ -33,7 +33,7 @@
 
 ## 🏀课余生活
 ### 📱App
-![](https://img.shields.io/badge/-AppleMusic-pink?style=flat&logo=Apple-Music)
+![](https://img.shields.io/badge/-AppleMusic-EF145F?style=flat&logo=Apple-Music)
 ![](https://img.shields.io/badge/-Spotify-green?style=flat&logo=Spotify)
 ![](https://img.shields.io/badge/-bilibili-blue?style=flat&logo=Bilibili)
 ![](https://img.shields.io/badge/-Youtube-red?style=flat&logo=YouTube)
