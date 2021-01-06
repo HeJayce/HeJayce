@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=Bootstrap)
 ![](https://img.shields.io/badge/-Vue.js-gray?style=flat&logo=vue.js)
-![](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql&logoColor=blue)
 ![](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![](https://img.shields.io/badge/-Python-gray?style=flat&logo=python)
