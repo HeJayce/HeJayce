@@ -7,7 +7,7 @@
 
 <!--![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)-->
 ![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=Windows)
-![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat&logo=Ubuntu)
+![](https://img.shields.io/badge/MacOS-Catalina-black?style=flat&logo=Apple)
 
 
 ![](https://img.shields.io/badge/Web-webstorm-blue?style=flat&logo=WebStorm)
