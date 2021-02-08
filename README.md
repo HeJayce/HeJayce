@@ -43,7 +43,7 @@
 <!-- steam-box start -->
  ### <a href="https://gist.github.com/881763b570de2cda37d3b7660c1e9f7d" target="_blank">🎮 我爱玩的Steam游戏</a>
  ``` text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 516 hrs 4 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 521 hrs 10 mins
 🚓 Grand Theft Auto V               🕘 168 hrs 7 mins
 🔫 Counter-Strike: Global Offensive 🕘 154 hrs 56 mins
 🎮 Assassin's Creed IV Black Flag   🕘 41 hrs 28 mins
