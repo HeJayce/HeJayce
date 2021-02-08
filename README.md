@@ -6,8 +6,9 @@
 ## ⚡ 使用工具及语言
 
 <!--![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)-->
-![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=Windows)
 ![](https://img.shields.io/badge/MacOS-Catalina-black?style=flat&logo=Apple)
+![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=Windows)
+
 
 
 ![](https://img.shields.io/badge/Web-webstorm-blue?style=flat&logo=WebStorm)
