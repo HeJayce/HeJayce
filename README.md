@@ -1,4 +1,5 @@
-# 😉	Hi there, I'm Jayce 
+# 😉	Hi there, I'm Jayce   
+使用github主要用来记笔记用，一个代码和markdown都可保存的平台
 ![](https://img.shields.io/badge/dynamic/json?color=da282a&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3606922432&logo=Sina-Weibo) 
 [![QQ](https://img.shields.io/badge/-QQ-blue?style=flat&logo=Tencent-QQ)](tencent://message/?uin=1372712847&Site=1372712847&menu=yes)
 [![gmail](https://img.shields.io/badge/-Email-8B89cc?style=flat&logo=Gmail)](Mailto:hejayce@gmail.com)
