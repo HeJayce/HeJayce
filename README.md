@@ -52,5 +52,3 @@
 ```
  <!-- steam-box end -->
 
- ### 🎧 我喜欢的音乐
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=hicksanderson96851&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=ktl6s5fjbhqlbzokbz6j4shdh&cover_image=true&theme=compact)
